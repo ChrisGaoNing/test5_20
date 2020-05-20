@@ -2,6 +2,6 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        Console.WriteLine("Hello World! 目前在master分支 低")
+        Console.WriteLine("Hello World! 脛驴脟掳脭脷master路脰脰搂 碌脥   edit in remote rep")
     End Sub
 End Module
